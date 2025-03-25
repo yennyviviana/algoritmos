@@ -11,11 +11,11 @@ $parcialDos= 4;
 $examenFinal= 5;
 
 
-//calculamos el promedio
+//calculamos el promedio......
 $promedio = ($parcialUno * 0.3 + $parcialDos * 0.3  + $examenFinal * 0.4);
 
 
-//calcular nota final
+//calcular nota final......
 $nota_final =  $promedio;
 
 

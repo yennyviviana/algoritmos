@@ -18,7 +18,7 @@ $numero_suma2 =6;
 $resultado_resta = $numero_resta1 - $numero_resta2;
 
 
-//resultado de la suma
+//resultado de la suma......
 $resultado_suma =  $numero_suma1 + $numero_suma2;
 
 

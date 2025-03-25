@@ -35,7 +35,7 @@ $incrementoManoDeObra = 0.15 * $costoTotal; // 10% del costo total
 // Calcular el costo total, incluyendo el incremento por mano de obra
 $costoTotalConManoDeObra = $costoTotal + $incrementoManoDeObra;
 
-// Mostrar los resultados
+// Mostrar los resultados..........
 echo "el costo total del computador es: ".$costoTotal;
 echo "incremento por mano de obra de ensamble es: ".  $incrementoManoDeObra;
 ?>
