@@ -1,14 +1,10 @@
 <?php
 
-/*Calcule el área de un círculo.....
+/*Tres personas deciden invertir su dinero para fundar una empresa. Cada una de
+ellas invierte una cantidad distinta. Obtener el porcentaje que cada quien invierte
+con respecto a la cantidad total invertida...........
 */
 
-$radio_circulo=  12;
-$area_circulo = 3.14 * ($radio_circulo **  2) ;
-
-
-
-echo  "el radio del circulo es: ". $area_circulo;
 
 
 

@@ -1,30 +1,11 @@
 <?php
 
 
-/*Escriba un programa que obtenga tres números, los almacene en variables y luego
-calcule y muestre un reporte sobre su suma y su promedio
+/*Un estudiante de algoritmos desea saber cuánto debe obtener como nota mínima
+para aprobar la asignatura. Sabe que su profesor le hará tres parciales y que
+tienen un valor porcentual de 30, 30 y 40 cada uno de ellos respectivamente.
+Ayude a este pobre estudiante a resolver su problema............................
 */
-
-
-$num1 = 12;
-$num2 = 20;
-$num3 = 7;
-
-
-
-//calcular suma
-$suma =  $num1 + $num2  + $num3;
-
-//calcular promedio
-$promedio = $suma / 3;
-
-
-
-echo  "la suma es: ".  $suma;
-echo  "el promedio es: ". $promedio;
-
-
-
 
 
 
