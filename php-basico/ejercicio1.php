@@ -1,6 +1,6 @@
 <?php
 
-// Función que pide un número natural
+// Función que pide un número natural.....
 function numeroNatural($mensaje) {
     while (true) {
         $entrada = readline($mensaje);
@@ -14,11 +14,11 @@ function numeroNatural($mensaje) {
     }
 }
 
-// Leer datos del usuario usando la función
+// Leer datos del usuario usando la función.....
 $num1 = numeroNatural("Ingrese el primer número: ");
 $num2 = numeroNatural("Ingrese el segundo número: ");
 
-// Verificar división por cero
+// Verificar división por cero......
 if ($num2 == 0) {
     echo "No se puede dividir entre 0\n";
 } else {
