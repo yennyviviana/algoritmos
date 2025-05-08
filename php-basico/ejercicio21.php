@@ -1,9 +1,19 @@
 <?php
 
-/*Solicite nombre, apellidos y cedula a un usuario y escriba en una sola línea
-todos los datos así: Su nombre es Pedro Pérez y su cedula es
-12.098.567.
+/*Diseñe un algoritmo que calcule la nota final de un estudiante con los
+siguientes porcentajes: primer parcial 30%, segundo parcial 30% y examen
+final 40%.
 */
+
+
+
+
+
+
+
+
+
+
 
 
 

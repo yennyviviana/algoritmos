@@ -1,11 +1,11 @@
 <?php
 
 
-/*Calcular el nuevo salario de un obrero si obtuvo un incremento del 25%
-sobre su salario anterior.
+/*Determine cuanto se le debe pagar a un empleado en una empresa según
+las siguientes condiciones: Devenga un salario básico, tiene comisiones por
+ventas, se le descuenta el aporte a cooperativas (2 % salario básico) y la
+seguridad social ((7% salario básico) + comisiones).
 */
-
-
 
 
 

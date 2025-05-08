@@ -1,10 +1,8 @@
 <?php
 
-/*Tres personas deciden invertir su dinero para fundar una empresa. Cada una de
-ellas invierte una cantidad distinta. Obtener el porcentaje que cada quien invierte
-con respecto a la cantidad total invertida...........
+/*Calcule el área de un rectángulo. Eleve el resultado a la potencia de 2. Muestre
+ambos resultados............
 */
-
 
 
 

@@ -5,5 +5,17 @@
 número ingresado por el usuario
 */
 
+
+
+$numero = readline ("Ingrese el numero fin: ");
+
+
+echo "Los cinco números siguientes a $numero son:\n";
+
+
+for($i=1; $i <=5; $i++){
+echo ($numero + $i) . "\n";
+}
+
 ?>
 

@@ -1,12 +1,10 @@
 <?php
 
-
-/*Un estudiante de algoritmos desea saber cuánto debe obtener como nota mínima
-para aprobar la asignatura. Sabe que su profesor le hará tres parciales y que
-tienen un valor porcentual de 30, 30 y 40 cada uno de ellos respectivamente.
-Ayude a este pobre estudiante a resolver su problema............................
+/*En una Institución pública existen tres departamentos: Planeación, Gobierno y
+Educación. El presupuesto anual del Instituto se reparte conforme a la siguiente
+tabla: Planeación 30%, Gobierno 35%, Salud 35%. Si el usuario da una cantidad
+presupuestal cualquiera, determinar que dinero recibirá cada departamento.
 */
-
 
 
 

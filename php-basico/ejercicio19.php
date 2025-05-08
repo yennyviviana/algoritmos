@@ -1,11 +1,14 @@
 <?php
 
-
-/*Un estudiante desea saber cuál será su promedio general en las tres materias mas
-difíciles que cursa y cuál será el promedio que obtendrá en cada una de ellas.
-Estas materias se evalúan como se muestra a continuación: Parcial 30%, Talleres
-20%, Evaluación final 50%.
+/*Solicite nombre, apellidos y cedula a un usuario y escriba en una sola línea
+todos los datos así: Su nombre es Pedro Pérez y su cedula es
+12.098.567.
 */
+
+
+
+
+
 
 
 ?>
